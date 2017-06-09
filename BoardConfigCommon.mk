@@ -106,6 +106,9 @@ BOARD_FLASH_BLOCK_SIZE := 131072
 # Power
 TARGET_POWERHAL_VARIANT := qcom
 
+# Enable real time lockscreen charging current values
+BOARD_GLOBAL_CFLAGS += -DBATTERY_REAL_INFO
+
 # Properties (reset them here, include more in device if needed)
 TARGET_SYSTEM_PROP := $(COMMON_PATH)/system.prop
 
