@@ -460,9 +460,9 @@
         <ctl name="RX4 MIX1 INP1" value="RX2" />
         <ctl name="RX4 MIX1 INP2" value="RX7" />
         <ctl name="RX4 DSM MUX" value="CIC_OUT" />
-        <ctl name="LINEOUT2 Volume" value="12" />
-        <ctl name="LINEOUT4 Volume" value="12" />
-        <ctl name="RX5 Digital Volume" value="84" />
+        <ctl name="LINEOUT2 Volume" value="8" />
+        <ctl name="LINEOUT4 Volume" value="8" />
+        <ctl name="RX5 Digital Volume" value="82" />
         <ctl name="ES325 RX2 Enable" value="1" />
     </path>
 
